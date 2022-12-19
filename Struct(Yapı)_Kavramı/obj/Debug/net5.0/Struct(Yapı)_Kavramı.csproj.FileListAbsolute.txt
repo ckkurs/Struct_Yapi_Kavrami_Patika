@@ -1,0 +1,16 @@
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\bin\Debug\net5.0\Struct(Yapı)_Kavramı.exe
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\bin\Debug\net5.0\Struct(Yapı)_Kavramı.deps.json
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\bin\Debug\net5.0\Struct(Yapı)_Kavramı.runtimeconfig.json
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\bin\Debug\net5.0\Struct(Yapı)_Kavramı.runtimeconfig.dev.json
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\bin\Debug\net5.0\Struct(Yapı)_Kavramı.dll
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\bin\Debug\net5.0\Struct(Yapı)_Kavramı.pdb
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\obj\Debug\net5.0\Struct(Yapı)_Kavramı.csproj.AssemblyReference.cache
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\obj\Debug\net5.0\Struct(Yapı)_Kavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\obj\Debug\net5.0\Struct(Yapı)_Kavramı.AssemblyInfoInputs.cache
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\obj\Debug\net5.0\Struct(Yapı)_Kavramı.AssemblyInfo.cs
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\obj\Debug\net5.0\Struct(Yapı)_Kavramı.csproj.CoreCompileInputs.cache
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\obj\Debug\net5.0\Struct(Yapı)_Kavramı.dll
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\obj\Debug\net5.0\refint\Struct(Yapı)_Kavramı.dll
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\obj\Debug\net5.0\Struct(Yapı)_Kavramı.pdb
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\obj\Debug\net5.0\Struct(Yapı)_Kavramı.genruntimeconfig.cache
+C:\Users\Cem\Desktop\C#\Struct(Yapı)_Kavramı\obj\Debug\net5.0\ref\Struct(Yapı)_Kavramı.dll
